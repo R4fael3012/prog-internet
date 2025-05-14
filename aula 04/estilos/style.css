@@ -1,0 +1,19 @@
+h1 {
+    color:blue;
+    font-size: 32px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+p a{
+    color: rebeccapurple;
+}
+
+a {
+    color: black;
+}
